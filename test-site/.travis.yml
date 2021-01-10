@@ -16,6 +16,6 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   name: flyingB0tat0
-  email: bot@baudisch.xyz
+  email: info@nubri.co
   keep-history: false
   allow-empty-commit: true
